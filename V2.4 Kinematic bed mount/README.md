@@ -1,9 +1,9 @@
 # V2.4 Kinematic bed mount
 
 ## Images
-![CAD image without bed](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/Kinematic_mount1.png)
+![CAD image without bed](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/Kinematic_mount_1.png)
 
-![CAD image with bed](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/Kinematic_mount2.png)
+![CAD image with bed](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/Kinematic_mount_1.png)
 ## BOM
 | Count | Item                                 | Comments                                                                                                                                                                                                 | Links                                                                                                                                                                        |
 |-------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
