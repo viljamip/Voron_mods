@@ -22,8 +22,8 @@
 ## Test results
 I used whoppingpochard's measure_thermal_behavior.py script to measure performance with the stock bed mounting and this mod. I also installed extrusion backers together with this mod but it should not affect significantly the plots shown below.
 ### Before
-![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/before.png | width=400)
+![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/before.png){:height="50%" width="50%"}
 ### After
-![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/after.png | width=400)
+![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/after.png | width=400){:height="50%" width="50%"}
 After
 
