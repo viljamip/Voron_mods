@@ -26,7 +26,7 @@
 | 12    | M5 1mm spacer                        | Same as used for mounting the stock bed extrusions.                                                                                                                                                      | [Aliexpress](https://www.aliexpress.com/item/32917948919.html)                                                                                                               |
 
 ## Test results
-I used (whoppingpochard's measure_thermal_behavior.py script)[https://github.com/tanaes/measure_thermal_behavior] to measure performance with the stock bed mounting and this mod. I also installed extrusion backers together with this mod but it should not affect significantly the plots shown below.
+I used [whoppingpochard's measure_thermal_behavior.py script](https://github.com/tanaes/measure_thermal_behavior) to measure performance with the stock bed mounting and this mod. I also installed extrusion backers together with this mod but it should not affect significantly the plots shown below.
 ### Before
 ![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/before.png)
 ### After
