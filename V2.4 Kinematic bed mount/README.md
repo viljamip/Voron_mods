@@ -1,6 +1,5 @@
-#V2.4 Kinematic bed mount
-
-##BOM
+# V2.4 Kinematic bed mount
+## BOM
 | Count | Item                                 | Comments                                                                                                                                                                                                 | Links                                                                                                                                                                        |
 |-------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6     | Hardened pin 5x20 mm                 | Hard pins should theoretically perform better than soft ones.                                                                                                                                            | [Aliexpress](https://www.aliexpress.com/item/32840748469.html)                                                                                                               |
@@ -22,8 +21,9 @@
 
 ## Test results
 I used whoppingpochard's measure_thermal_behavior.py script to measure performance with the stock bed mounting and this mod. I also installed extrusion backers together with this mod but it should not affect significantly the plots shown below.
+### Before
 ![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/before.png)
-Before
+### After
 ![Stock bed mounting](https://github.com/viljamip/Voron_mods/blob/main/V2.4%20Kinematic%20bed%20mount/Images/after.png)
 After
 
